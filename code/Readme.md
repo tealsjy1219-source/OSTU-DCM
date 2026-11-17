@@ -1,0 +1,1 @@
+To reproduce the results, load the data from the `data` directory according to the requirements specified in the code in the `code` directory. Then, load the corresponding checkpoint from the `pointcheck` directory and run the relevant code.
